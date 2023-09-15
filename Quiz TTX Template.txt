@@ -1,0 +1,80 @@
+
+
+NY01 ¿Cuál de las siguientes acciones harías primero?
+* 1. Dejar que el SOC haga una investigación más detallada y proporcione más información
+- 2. Declarar un ciber incidente grave y solicitar que se movilice el Comité de Crisis de Petro-LOL (CCP).
+- 3. Intentar iniciar un diálogo con los piratas informáticos
+- 4. Esto no va a ser nada. Vámonos a casa y el lunes ya se verá
+
+
+INY02 ¿Qué medios de comunicación se deben utilizar para el intercambio de información dentro del Comité de Crisis de Petro-LOL(CCP)?
+- 1. Teams y el correo corporativo
+- 2. El grupo de WhatsApp que tienen los directivos es suficiente (o cualquier app de mensajería)
+* 3. La herramienta de notificación de crisis corporativa (solo si existe)
+- 4. Se contrata lo que haga falta
+
+
+INY03 ¿Cómo calificaría la gravedad actual y el impacto potencial?
+- 1. Crítico
+* 2. Severo
+* 3. Alto
+- 4. Medio
+- 5. Bajo
+
+
+INY04 ¿Qué medidas se deben implementar para limitar el impacto del ataque?
+- 1. Apagar la red corporativa
+- 2. Apagar la red de operaciones
+- 3. Apagar ambas redes
+* 4. Aplicar medidas de contención solo a los ordenadores y servidores afectados
+
+
+INY05 ¿Cuáles es la mejor elección de restauración a partir de copias de seguridad?^
+* 1. No hacer nada hasta finalizar la investigación y comprobar que los backups están limpios
+- 2. Recuperar solo los equipos conocidos infectados (Se calculan 5 días de interrupción del negocio)
+- 3. Reconstruir toda la red corporativa. (Se calculan 20 días de interrupción del negocio)
+
+
+INY06 ¿Cuál debería ser la decisión del Comité de Crisis de Petro-LOL?
+- 1. Tomar medidas para pagar el rescate
+- 2. Intentar negociar el pago con el grupo APT
+* 3. No pagar
+- 4. Cambiar la dirección del wallet (así, si paga la empresa, lo cobraremos nosotros)
+
+
+INY07 ¿Cómo responder a las publicaciones en Redes Sociales?
+- 1. Reportar el Tweet y solicitar su eliminación
+- 2. Responder públicamente con sinceridad, sin dar muchas explicaciones.
+* 3. No responder. Ya se cansarán
+- 4. Tratar directamente con el autor del post
+
+
+INY08 ¿Cómo garantizará la continuidad del equipo técnico en estas operaciones?
+* 1. Subcontratando la operación de contención y recuperación a TRC (o a otro proveedor de confianza)
+- 2. Pidiendo a algunas personas del SOC que trabajen horas extras.
+- 3. No nos podemos fiar de nadie. Se organizarán turnos entre el personal del SOC (aunque baje el rendimiento) para permitir el descanso.
+* 4. Pediremos ayuda a la Caballería (CCN, INCIBE, MCCE) 
+
+
+INY09 ¿Cómo manejar la demanda de información de la prensa?
+- 1. Haga una declaración vaga del tipo: "Actualmente estamos teniendo dificultades técnicas. Espere mientras solucionamos estos problemas".
+- 2. Comprometerse activamente con las solicitudes de información, comunicando detalles y esfuerzos
+- 3. Ignorar a la prensa. Tenemos prioridades más altas en este momento.
+* 4. Publicar una declaración de recuperación, centrándose en las medidas, no en la amenaza del ransomware
+
+
+INY10 ¿Cómo reaccionar a la confirmación del phishing como vector inicial?
+* 1. Priorizar la identificación y el bloqueo de correos electrónicos similares.
+- 2 Tomar medidas disciplinarias contra los 2 usuarios culpables. Servirá de ejemplo al resto.
+* 3. Ordenar un análisis forense del malware para tratar de entender el comportamiento y TTPs del ataque
+- 4. Escribir una política (de emergencia) de concientización sobre phishing y distribuirla de inmediato
+
+
+
+INY11 ¿Cuál es el paso siguiente post-incidente?
+* 1. Llevar a cabo una reflexión crítica del plan de respuesta a incidentes
+- 2. Evaluar la idoneidad de las copias de seguridad
+- 3. Planificar inmediatamente un curso de concienciación para los empleados
+- 4. Actualizar los planes y procedimientos de recuperación
+
+
